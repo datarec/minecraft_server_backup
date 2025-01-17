@@ -5,4 +5,7 @@
 
 1. Ensure that your server files are in a folder in your Desktop directory called "Minecraft Server".
 2. Run the script.
-3. Enjoy.
+3. Enjoy. 
+
+# Notes
+It currently only backs up one world. 
