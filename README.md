@@ -8,4 +8,4 @@
 3. Enjoy. 
 
 # Notes
-It currently only backs up one world. 
+Currently only capable of backing up 1 world. 
